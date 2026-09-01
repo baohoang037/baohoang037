@@ -1,55 +1,48 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
   <h1>Hoang Ngoc Gia Bao</h1>
-  <p><b>Integrated Circuit (IC) Design Student @ FPT University HCMC</b></p>
-  <p><i>Focusing on RTL Design & Functional Verification (DV)</i></p>
+  <p><b>Undergraduate IC Design Student | Aspiring Design Verification (DV) & RTL Engineer</b></p>
+  <p>📍 Ho Chi Minh City, Vietnam</p>
 </div>
 
 <br/>
 
 ### 👨‍💻 About Me
 
-- 🎓 **Education:** 3rd-year B.Sc. in Integrated Circuit Design at **FPT University HCMC** (CGPA: **8.34 / 10**).
-- 🏛️ **Leadership:** Vice President — **ICD Club** (IC Design Club, FPTU).
-- 🔬 **Core Interests:** RTL Architecture, Synchronous Logic Design, Functional Verification & Testbench Development.
-- 📜 **Certifications:** Fundamental of IC Design & Verification (*ICTC Training Center* — Grade: Excellent).
-- 🌐 **Exchange:** Completed *English for Leaders Programme* at **HELP University**, Malaysia.
+I am an Integrated Circuit (IC) Design student at **FPT University HCMC**, pursuing a career as a **Design Verification (DV) Engineer** and **RTL Design Engineer**. 
+
+* 🎯 **Career Goal:** Seeking opportunities in ASIC/SoC Design & Functional Verification to contribute to high-reliability digital IP development.
+* 🧠 **Technical Competencies:**
+  * **RTL Design:** Writing synthesizable logic in Verilog HDL, synchronous state machines (FSM), protocol interfaces (APB), and fixed-point DSP hardware architectures.
+  * **Design Verification:** Constructing self-checking testbenches, verification planning (VPlan), analyzing simulation waveforms, and executing coverage-driven verification (Statement, Branch, Condition, Toggle).
+  * **EDA & Environment:** Hands-on experience with QuestaSim/ModelSim, Xilinx Vivado, Linux environment, and Vim.
 
 ---
 
-### 🛠️ Technical Stack & Tools
+### 🛠️ Technical Skills
 
-#### ⚡ Hardware Description Languages (HDL)
-<p align="left">
-  <img src="https://img.shields.io/badge/Verilog_HDL-00599C?style=for-the-badge&logo=microchip&logoColor=white" alt="Verilog" />
-  <img src="https://img.shields.io/badge/SystemVerilog_(Basic)-185F9E?style=for-the-badge&logo=target&logoColor=white" alt="SystemVerilog" />
-  <img src="https://img.shields.io/badge/C_Language-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-</p>
-
-#### 🧰 EDA & Simulation Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Questa_%2F_ModelSim-002D62?style=for-the-badge&logo=mentor&logoColor=white" alt="ModelSim" />
-  <img src="https://img.shields.io/badge/Xilinx_Vivado-C60000?style=for-the-badge&logo=xilinx&logoColor=white" alt="Vivado" />
-  <img src="https://img.shields.io/badge/LTspice-555555?style=for-the-badge&logo=circuitverse&logoColor=white" alt="LTspice" />
-  <img src="https://img.shields.io/badge/Cadence_(Basic)-E31B23?style=for-the-badge&logoColor=white" alt="Cadence" />
-</p>
-
-#### 💻 Environment & Development
-<p align="left">
-  <img src="https://img.shields.io/badge/Linux_CLI-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
+| Domain | Tools & Technologies |
+| :--- | :--- |
+| **HDLs & Programming** | ![Verilog](https://img.shields.io/badge/Verilog_HDL-00599C?style=flat-square&logo=microchip&logoColor=white) ![SystemVerilog](https://img.shields.io/badge/SystemVerilog_(Basic)-185F9E?style=flat-square&logo=target&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) |
+| **EDA & Simulation** | ![Questa / ModelSim](https://img.shields.io/badge/Questa_%2F_ModelSim-002D62?style=flat-square&logoColor=white) ![Xilinx Vivado](https://img.shields.io/badge/Xilinx_Vivado-C60000?style=flat-square&logo=xilinx&logoColor=white) ![LTspice](https://img.shields.io/badge/LTspice-555555?style=flat-square&logoColor=white) |
+| **Verification & DV** | `Functional Verification` `Self-Checking Testbenches` `Code Coverage` `Waveform Debug` `VPlan` |
+| **Dev Environment** | ![Linux](https://img.shields.io/badge/Linux_CLI-FCC624?style=flat-square&logo=linux&logoColor=black) ![Vim](https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
 
 ---
 
-### 🚀 Highlighted Project
+### 🚀 Featured Projects
 
-* **[scpu (Simple RISC CPU)](https://github.com/baohoang037/scpu)** — *RTL Design & Functional Verification*
-  * Implemented a 3-stage pipelined / multi-block RISC CPU (**Fetch**, **Decoder**, **Execute**) in Verilog HDL.
-  * Designed a 16-instruction ISA and an integrated 4-operation ALU.
-  * Built self-checking testbenches to verify functional simulation waveforms in Xilinx Vivado.
+#### 1. [64-bit APB Timer IP — RTL & Functional Verification](https://github.com/baohoang037/Timer-IP-64bit)
+* Designed a 64-bit Timer IP compliant with the **AMBA APB** protocol interface, featuring a programmable clock prescaler, interrupt generation logic, and debug halt mode.
+* Developed a complete self-checking verification suite in QuestaSim covering corner cases and achieving **100% code coverage** (Statement, Branch, Condition, Toggle).
+
+#### 2. [Fixed-Point FFT Hardware Accelerator](https://github.com/baohoang037/FFT-Fixed-Point-FPGA)
+* Implemented a Fast Fourier Transform (FFT) hardware core targeting FPGA platforms with fixed-point arithmetic optimization.
+* Optimized pipeline datapath and butterfly execution units; validated numerical precision and latency against software reference models.
+
+#### 3. [SCPU — 8-bit RISC Processor](https://github.com/baohoang037/scpu)
+* Designed a multi-block RISC CPU core (**Fetch**, **Instruction Decoder**, **Execute**) in synthesizable Verilog HDL with a custom 16-instruction ISA and 4-operation ALU.
+* Built cycle-accurate testbenches in Xilinx Vivado, verifying instruction execution flows and register file behaviors via waveform inspection.
 
 ---
 
