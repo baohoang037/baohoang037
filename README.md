@@ -3,18 +3,25 @@
   <h1>Hoang Ngoc Gia Bao</h1>
   <p><b>Undergraduate IC Design Student | Aspiring Design Verification (DV) & RTL Engineer</b></p>
   <p>📍 Ho Chi Minh City, Vietnam</p>
+
+  <br/>
+
+  <a href="https://portfolio-giabao.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Interactive_Portfolio-portfolio--giabao.vercel.app-2563eb?style=for-the-badge&logo=vercel&logoColor=white" alt="Interactive Portfolio" />
+  </a>
 </div>
 
 <br/>
 
 ### 👨‍💻 About Me
 
-I am an Integrated Circuit (IC) Design student at **FPT University HCMC**, pursuing a career as a **Design Verification (DV) Engineer** and **RTL Design Engineer**. 
+I am a third-year Integrated Circuit (IC) Design student at **FPT University HCMC**, actively pursuing opportunities as a **Design Verification (DV) Engineer** and **RTL Design Engineer**.
 
 * 🎯 **Career Goal:** Seeking opportunities in ASIC/SoC Design & Functional Verification to contribute to high-reliability digital IP development.
+* 🌐 **Live Portfolio:** Explore my interactive project demos and credentials at **[portfolio-giabao.vercel.app](https://portfolio-giabao.vercel.app/)**.
 * 🧠 **Technical Competencies:**
-  * **RTL Design:** Writing synthesizable logic in Verilog HDL, synchronous state machines (FSM), protocol interfaces (APB), and fixed-point DSP hardware architectures.
   * **Design Verification:** Constructing self-checking testbenches, verification planning (VPlan), analyzing simulation waveforms, and executing coverage-driven verification (Statement, Branch, Condition, Toggle).
+  * **RTL Design:** Writing synthesizable logic in Verilog HDL, synchronous state machines (FSM), protocol interfaces (APB), and fixed-point DSP hardware architectures.
   * **EDA & Environment:** Hands-on experience with QuestaSim/ModelSim, Xilinx Vivado, Linux environment, and Vim.
 
 ---
@@ -23,9 +30,9 @@ I am an Integrated Circuit (IC) Design student at **FPT University HCMC**, pursu
 
 | Domain | Tools & Technologies |
 | :--- | :--- |
+| **Verification & DV** | `Functional Verification` `Self-Checking Testbenches` `Code Coverage` `Waveform Debug` `VPlan` |
 | **HDLs & Programming** | ![Verilog](https://img.shields.io/badge/Verilog_HDL-00599C?style=flat-square&logo=microchip&logoColor=white) ![SystemVerilog](https://img.shields.io/badge/SystemVerilog_(Basic)-185F9E?style=flat-square&logo=target&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) |
 | **EDA & Simulation** | ![Questa / ModelSim](https://img.shields.io/badge/Questa_%2F_ModelSim-002D62?style=flat-square&logoColor=white) ![Xilinx Vivado](https://img.shields.io/badge/Xilinx_Vivado-C60000?style=flat-square&logo=xilinx&logoColor=white) ![LTspice](https://img.shields.io/badge/LTspice-555555?style=flat-square&logoColor=white) |
-| **Verification & DV** | `Functional Verification` `Self-Checking Testbenches` `Code Coverage` `Waveform Debug` `VPlan` |
 | **Dev Environment** | ![Linux](https://img.shields.io/badge/Linux_CLI-FCC624?style=flat-square&logo=linux&logoColor=black) ![Vim](https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
 
 ---
@@ -49,6 +56,9 @@ I am an Integrated Circuit (IC) Design student at **FPT University HCMC**, pursu
 ### 📬 Connect With Me
 
 <p align="left">
+  <a href="https://portfolio-giabao.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="mailto:baohoang037@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
