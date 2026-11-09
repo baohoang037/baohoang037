@@ -81,20 +81,3 @@ I am an Integrated Circuit (IC) Design student at **FPT University**, building a
 </div>
 
 ---
-
-### 📊 GitHub Activity & Insights
-
-<div align="center">
-  <!-- Biểu đồ Streak (Server demolab chạy cực kỳ ổn định, không bị rate-limit) -->
-  <img src="https://streak-stats.demolab.com/?user=baohoang037&theme=default&hide_border=false&border_radius=10" width="49%" alt="GitHub Streak" />
-  
-  <!-- GitHub Stats (Đã tối ưu tham số và đổi link tránh rate-limit) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=baohoang037&show_icons=true&theme=default&hide_border=false&border_radius=10&rank_icon=github" width="49%" alt="GitHub Stats" />
-</div>
-
-<br/>
-
-<div align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baohoang037&layout=compact&theme=default&hide_border=false&border_radius=10" width="55%" alt="Top Languages" />
-</div>
