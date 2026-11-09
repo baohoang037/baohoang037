@@ -1,12 +1,13 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px">
   <h1>Hoang Ngoc Gia Bao</h1>
-  <p><b>Undergraduate IC Design Student | Aspiring Design Verification (DV) & RTL Engineer</b></p>
+  <p><b>Undergraduate IC Design Student | Digital Design & Verification Foundations</b></p>
 
   <br/>
 
+  <!-- Link tới Website Portfolio -->
   <a href="https://portfolio-giabao.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Visit_My_Interactive_Portfolio-portfolio--giabao.vercel.app-2563eb?style=for-the-badge&logo=vercel&logoColor=white" alt="Interactive Portfolio" />
+    <img src="https://img.shields.io/badge/🌐_Interactive_Portfolio-portfolio--giabao.vercel.app-2563eb?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" />
   </a>
 </div>
 
@@ -14,46 +15,67 @@
 
 ### 👨‍💻 About Me
 
-I am an Integrated Circuit (IC) Design student at **FPT University**, focusing on **Design Verification (DV)** and **RTL Design**.
+I am an Integrated Circuit (IC) Design student at **FPT University**, currently building hands-on fundamentals in **Digital RTL Design** and **Design Verification (DV)**.
 
-* 🎯 **Career Objective:** Seeking a Design Verification / RTL Design internship or junior role to verify complex digital IPs and contribute to first-pass silicon success.
-* 🌐 **Interactive Portfolio:** View project breakdowns, waveform highlights, and verified credentials at **[portfolio-giabao.vercel.app](https://portfolio-giabao.vercel.app/)**.
-* 🏛️ **Leadership:** Former Vice President — **ICD Club** (IC Design Club, FPTU, Spring 2026). Organized technical sharing sessions and guided members through Verilog HDL coding, simulation workflows, and verification basics.
-* 🧠 **Core Competencies:**
-  * **Design Verification:** Layered testbench development (OOP SystemVerilog), Constrained-Random Verification (CRV), SystemVerilog Assertions (SVA), reference models, self-checking scoreboards, and coverage closure (Code & Functional).
-  * **RTL Design & Protocols:** Synthesizable Verilog HDL, finite state machines (FSM), AMBA on-chip bus architectures (AHB, APB), and pipeline register stages.
-  * **EDA & Toolchains:** Siemens QuestaSim / ModelSim, Xilinx Vivado, Linux environment, Vim, and Git.
+* 🎯 **Focus:** Consolidating SystemVerilog verification fundamentals, self-checking testbenches, and on-chip bus protocols (AMBA AHB/APB).
+* 🌐 **Live Portfolio:** Explore interactive project breakdowns and verified certificates at **[portfolio-giabao.vercel.app](https://portfolio-giabao.vercel.app/)**.
+* 🏛️ **Community:** Former Vice President — **ICD Club** (IC Design Club, FPTU, Spring 2026). Assisted in coordinating academic workshops and guiding peers on basic Verilog coding and simulation setup.
+* 📖 **Currently Learning:** Layered OOP testbench structures in SystemVerilog, assertion-based checking (SVA), and coverage metrics.
 
 ---
 
-### 🛠️ Technical Skills
+### 🛠️ Technical Toolkit
 
-| Category | Tools & Technologies |
+| Category | Skills & Environments (Academic & Project-based) |
 | :--- | :--- |
-| **Verification (DV)** | `Layered Testbenches (OOP)` `Constrained-Random Verification (CRV)` `SVA Assertions` `Self-Checking Scoreboards` `Code & Functional Coverage` `Waveform Debug` |
-| **HDLs & Languages** | ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-185F9E?style=flat-square&logo=target&logoColor=white) ![Verilog](https://img.shields.io/badge/Verilog_HDL-00599C?style=flat-square&logo=microchip&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) |
-| **EDA & Simulators** | ![Questa / ModelSim](https://img.shields.io/badge/Questa_%2F_ModelSim-002D62?style=flat-square&logoColor=white) ![Xilinx Vivado](https://img.shields.io/badge/Xilinx_Vivado-C60000?style=flat-square&logo=xilinx&logoColor=white) ![LTspice](https://img.shields.io/badge/LTspice-555555?style=flat-square&logoColor=white) |
-| **Dev Environment** | ![Linux](https://img.shields.io/badge/Linux_CLI-FCC624?style=flat-square&logo=linux&logoColor=black) ![Vim](https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+| **HDLs & Languages** | ![Verilog](https://img.shields.io/badge/Verilog_HDL-00599C?style=flat-square&logo=microchip&logoColor=white) ![SystemVerilog](https://img.shields.io/badge/SystemVerilog_(Foundations)-185F9E?style=flat-square&logo=target&logoColor=white) ![C++](https://img.shields.io/badge/C++_(Basic)-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) |
+| **Verification Basics** | `Functional Verification Concepts` `Testbench Writing` `Waveform Debug` `Basic SVA` `Code Coverage` |
+| **EDA Simulators** | ![Questa / ModelSim](https://img.shields.io/badge/Questa_%2F_ModelSim-002D62?style=flat-square&logoColor=white) ![Xilinx Vivado](https://img.shields.io/badge/Xilinx_Vivado-C60000?style=flat-square&logo=xilinx&logoColor=white) ![LTspice](https://img.shields.io/badge/LTspice-555555?style=flat-square&logoColor=white) |
+| **Environment & Tools** | ![Linux](https://img.shields.io/badge/Linux_CLI-FCC624?style=flat-square&logo=linux&logoColor=black) ![Vim](https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Highlighted Academic Projects
 
-#### 1. [AMBA AHB-to-APB Bridge — Design & Verification](https://github.com/baohoang037/AMBA-AHB-to-APB-Bridge-in-SystemVerilog)
-* Architected a layered, object-oriented testbench in **SystemVerilog** using Mailboxes, Virtual Interfaces, and Constrained-Random Verification (CRV) to verify an AMBA AHB-to-APB bridge IP.
-* Created 8 directed and random sequences testing all burst transfers (SINGLE to INCR16/WRAP16), wait states (`BUSY`, `Hreadyout` stall), and address decode boundaries.
-* Built a self-checking Scoreboard with an address-decode reference model, verifying data integrity and one-hot `Pselx` generation across 1,338 transactions with zero mismatches.
-* Integrated concurrent **SystemVerilog Assertions (SVA)** to monitor AHB transfer rules and APB setup-to-access timing relationships.
-* Identified and localized an RTL bug in `APB_Controller` causing address misalignment during zero-idle Back-to-Back Write-to-Read transitions.
-* Achieved **100.00% Functional Coverage** (5 Covergroups) and **100.00% Adjusted Code Coverage** in QuestaSim.
+#### 1. [AMBA AHB-to-APB Bridge — Functional Verification](https://github.com/baohoang037/AMBA-AHB-to-APB-Bridge-in-SystemVerilog)
+* **Goal:** Verified an AMBA AHB-to-APB bridge module using a layered SystemVerilog testbench.
+* **Testbench Setup:** Implemented testbench components using Mailboxes, Virtual Interfaces, and basic Constrained-Random stimulus generation.
+* **Checks & Assertions:** Designed a self-checking Scoreboard with an address-decode reference model; added basic SystemVerilog Assertions (SVA) to monitor protocol handshakes.
+* **Results:** Identified an RTL addressing corner case during back-to-back write-read transfers; analyzed functional covergroups and code coverage in QuestaSim.
 
 #### 2. [64-bit APB Timer IP — RTL & Functional Verification](https://github.com/baohoang037/Timer-IP-64bit)
-* Implemented a 64-bit Timer IP compliant with the **AMBA APB** interface in synthesizable Verilog HDL, featuring programmable prescalers, interrupt logic, and debug halt mode.
-* Built a self-checking verification environment in QuestaSim covering all functional corner cases, achieving **100% code coverage** (Statement, Branch, Condition, Toggle).
+* **Goal:** Designed and verified a 64-bit Timer IP conforming to the AMBA APB protocol interface.
+* **Implementation:** Written in synthesizable Verilog HDL with programmable clock prescaling, interrupt generation, and debug halt mode.
+* **Verification:** Built self-checking test cases in QuestaSim covering operational modes and checking coverage metrics.
 
-#### 3. [SCPU — 8-bit RISC Processor](https://github.com/baohoang037/scpu)
-* Designed a 3-stage pipelined RISC core (Fetch, Decode, Execute) in Verilog HDL with a custom 16-instruction ISA and 4-operation ALU.
-* Validated execution flows and register file behaviors through cycle-by-cycle waveform analysis and self-checking testbenches in Xilinx Vivado.
+#### 3. [SCPU — Simple 8-bit RISC Processor](https://github.com/baohoang037/scpu)
+* **Goal:** Designed a 3-block RISC CPU core (Fetch, Instruction Decoder, Execute) in Verilog HDL.
+* **Implementation:** Supported a 16-instruction ISA with a 4-operation ALU.
+* **Verification:** Verified instruction cycles and register operations through testbenches and cycle-accurate waveform inspection in Vivado.
+
+---
+
+### 📊 GitHub Activity & Insights
+
+<div align="center">
+  <!-- Biểu đồ đóng góp 30 ngày gần nhất -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=baohoang037&theme=github-compact&hide_border=true&area=true" width="95%" alt="Activity Graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- Thống kê tổng quan và chuỗi streak commit -->
+  <img src="https://github-readme-stats.vercel.app/api?username=baohoang037&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=baohoang037&theme=default&hide_border=true" width="48%" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- Các ngôn ngữ sử dụng phổ biến -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baohoang037&layout=compact&theme=default&hide_border=true" width="55%" alt="Top Languages" />
+</div>
 
 ---
 
