@@ -79,5 +79,3 @@ I am an Integrated Circuit (IC) Design student at **FPT University**, building a
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
 </div>
-
----
